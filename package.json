@@ -1,0 +1,26 @@
+{
+  "name": "gulp-starter-kit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bilcha/gulp-starter-kit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bilcha/gulp-starter-kit/issues"
+  },
+  "homepage": "https://github.com/bilcha/gulp-starter-kit#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-sass": "^4.0.1"
+  },
+  "dependencies": {}
+}
